@@ -1,6 +1,3 @@
-// Faisal Shaikh
-// Fshaikh1
-// PA4
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>

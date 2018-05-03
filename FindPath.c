@@ -1,7 +1,3 @@
-// Faisal Shaikh
-// Fshaikh1
-// PA4
-
 #include "Graph.h"
 #include "List.h"
 #include<stdio.h>

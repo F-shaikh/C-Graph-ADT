@@ -35,4 +35,4 @@ void BFS(Graph G, int s);
 void printGraph(FILE* out, Graph G);
 void add(Graph G, List L, int x);
 
-#endif //PA4_GRAPH_H
+#endif
